@@ -1,0 +1,32 @@
+2026-05-11 13:45:59,976 - INFO - Ingesting begin_inventory.csv in db
+2026-05-11 13:46:02,487 - INFO - begin_inventory.csv loaded successfully
+2026-05-11 13:46:02,488 - INFO - Ingesting end_inventory.csv in db
+2026-05-11 13:46:05,128 - INFO - end_inventory.csv loaded successfully
+2026-05-11 13:46:05,129 - INFO - Ingesting purchases.csv in db
+2026-05-11 13:46:48,756 - INFO - purchases.csv loaded successfully
+2026-05-11 13:46:48,756 - INFO - Ingesting purchase_prices.csv in db
+2026-05-11 13:46:48,960 - INFO - purchase_prices.csv loaded successfully
+2026-05-11 13:46:48,960 - INFO - Ingesting sales.csv in db
+2026-05-11 13:50:39,388 - INFO - sales.csv loaded successfully
+2026-05-11 13:50:39,388 - INFO - Ingesting vendor_invoice.csv in db
+2026-05-11 13:50:39,517 - INFO - vendor_invoice.csv loaded successfully
+2026-05-11 13:50:39,517 - INFO - ********** Ingestion Completed **********
+2026-05-11 13:50:39,517 - INFO - Total Time Taken 4.66 minutes
+2026-05-11 13:54:54,755 - DEBUG - Using selector: SelectSelector
+2026-05-11 13:54:54,759 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-11 13:54:54,772 - WARNING - No such comm: 7d647304-6199-410c-90de-daf2b249e995
+2026-05-11 13:54:54,772 - DEBUG - Current comms: []
+2026-05-11 18:00:43,981 - DEBUG - handle_msg[c5a1c40b-e1bd-41a7-abf4-960ccb771579]({'header': {'date': datetime.datetime(2026, 5, 11, 12, 30, 43, 955000, tzinfo=tzutc()), 'msg_id': 'c4e621c1-7c06-4eae-bb21-401e203e879e', 'msg_type': 'comm_msg', 'session': 'ecc9cdce-a04a-496f-8857-a1b6cefc0eaa', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': 'c4e621c1-7c06-4eae-bb21-401e203e879e', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'c5a1c40b-e1bd-41a7-abf4-960ccb771579', 'data': {'method': 'request_states'}}, 'buffers': []})
+2026-05-11 18:00:44,139 - DEBUG - Using selector: SelectSelector
+2026-05-11 18:00:44,769 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-11 18:00:44,788 - WARNING - No such comm: a2e46785-85f2-412c-8377-757c04642cba
+2026-05-11 18:00:44,790 - DEBUG - Current comms: []
+2026-05-11 18:00:44,821 - DEBUG - Using selector: SelectSelector
+2026-05-11 18:00:45,121 - DEBUG - handle_close[c5a1c40b-e1bd-41a7-abf4-960ccb771579]({'header': {'date': datetime.datetime(2026, 5, 11, 12, 30, 45, 115000, tzinfo=tzutc()), 'msg_id': '00671660-3545-4a5a-ab3a-f8f303f8c8be', 'msg_type': 'comm_close', 'session': 'ecc9cdce-a04a-496f-8857-a1b6cefc0eaa', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': '00671660-3545-4a5a-ab3a-f8f303f8c8be', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'c5a1c40b-e1bd-41a7-abf4-960ccb771579', 'data': {}}, 'buffers': []})
+2026-05-11 18:24:40,140 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-11 18:24:40,193 - DEBUG - Using selector: SelectSelector
+2026-05-11 18:24:40,195 - WARNING - No such comm: cf3f19bc-db2e-488e-9f3c-4628b922bd37
+2026-05-11 18:24:40,195 - DEBUG - Current comms: []
+2026-05-11 18:24:40,236 - DEBUG - handle_msg[1200c793-188c-4b21-8363-76cf241bba1a]({'header': {'date': datetime.datetime(2026, 5, 11, 12, 54, 40, 156000, tzinfo=tzutc()), 'msg_id': '38ff535d-4e9a-454e-a99d-e5118c5ebdd4', 'msg_type': 'comm_msg', 'session': 'ecc9cdce-a04a-496f-8857-a1b6cefc0eaa', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': '38ff535d-4e9a-454e-a99d-e5118c5ebdd4', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '1200c793-188c-4b21-8363-76cf241bba1a', 'data': {'method': 'request_states'}}, 'buffers': []})
+2026-05-11 18:24:40,242 - DEBUG - Using selector: SelectSelector
+2026-05-11 18:24:40,317 - DEBUG - handle_close[1200c793-188c-4b21-8363-76cf241bba1a]({'header': {'date': datetime.datetime(2026, 5, 11, 12, 54, 40, 313000, tzinfo=tzutc()), 'msg_id': 'dd721b98-fae9-4f9e-82a4-367dd1b68dcf', 'msg_type': 'comm_close', 'session': 'ecc9cdce-a04a-496f-8857-a1b6cefc0eaa', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': 'dd721b98-fae9-4f9e-82a4-367dd1b68dcf', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '1200c793-188c-4b21-8363-76cf241bba1a', 'data': {}}, 'buffers': []})
